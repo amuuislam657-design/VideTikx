@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MY TUBE</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_shorts">Shorts</string>
+    <string name="nav_upload">Upload</string>
+    <string name="nav_subscriptions">Subscriptions</string>
+    <string name="nav_profile">Profile</string>
+    <string name="search_videos_hint">Search your offline videos…</string>
+    <string name="empty_library_title">Your offline studio is empty</string>
+    <string name="empty_library_subtitle">Upload videos or Shorts directly from your device. Everything stays 100% private and offline.</string>
+    <string name="upload_first_video">Upload Video</string>
+    <string name="empty_shorts_title">No Shorts uploaded yet</string>
+    <string name="empty_shorts_subtitle">Pick a vertical clip from your device to build your personal Shorts feed.</string>
+    <string name="upload_short">Upload Short</string>
+</resources>

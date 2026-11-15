@@ -1,0 +1,6 @@
+{
+  "name": "MY TUBE",
+  "description": "An offline-first mobile video sharing and Shorts player app with local video uploads, custom thumbnails, profile management, and dark/light themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
